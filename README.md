@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aasmund-mjos
-- 🌱 I’m currently studying physics and mathematics at Trondheim
+- 🌱 I’m currently studying Physics and Mathematics at NTNU Trondheim
 - 📫 How to reach me -> aasmund@mjos.no
   
 <!---
